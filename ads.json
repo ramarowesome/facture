@@ -1,0 +1,14 @@
+[
+  {
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/ads1.jpg",
+    "buttonText": "Voir plus",
+    "url": "https://www.facebook.com/profile.php?id=61557873856552",
+    "description": "Découvrez nos offres sur facebook !"
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/3d.jpg",
+    "buttonText": "Visiter notre site",
+    "url": "https://www.example.com/online-ad2",
+    "description": "Promo incroyable avec le code {premiumCode}"
+  }
+]
