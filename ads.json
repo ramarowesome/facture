@@ -1,5 +1,9 @@
 [
   {
+      "adType": "video",
+      "videoUrl": "https://raw.githubusercontent.com/ramarowesome/facture/main/pao.mp4"
+    },
+  {
     "adType": "image",
     "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/ads1.jpg",
     "buttonText": "Voir plus",
@@ -15,3 +19,4 @@
   }
 
 ]
+
