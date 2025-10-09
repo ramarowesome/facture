@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Template Pro (En Ligne)",
+    "thumbnail_url": "https://raw.githubusercontent.com/VOTRE_USER/VOTRE_REPO/main/thumbnails/pro_thumb.png",
+    "json_url": "https://raw.githubusercontent.com/VOTRE_USER/VOTRE_REPO/main/json/pro_template.json"
+  },
+  {
+    "name": "Design Estival (En Ligne)",
+    "thumbnail_url": "https://raw.githubusercontent.com/VOTRE_USER/VOTRE_REPO/main/thumbnails/summer_thumb.png",
+    "json_url": "https://raw.githubusercontent.com/VOTRE_USER/VOTRE_REPO/main/json/summer_template.json"
+  }
+]
