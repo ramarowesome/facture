@@ -19,6 +19,13 @@
   },
     {
     "adType": "image",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/club.jpg",
+    "buttonText": "Visiter la page",
+    "url": "https://www.facebook.com/profile.php?id=61575067320187",
+    "description": "Vente de motos bonne occasion"
+  },
+    {
+    "adType": "image",
     "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/star.jpg",
     "buttonText": "Donner un avis",
     "url": "https://play.google.com/store/apps/details?id=com.facture.easynice",
@@ -26,5 +33,6 @@
   }
 
 ]
+
 
 
