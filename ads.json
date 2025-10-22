@@ -14,9 +14,17 @@
     "adType": "image",
     "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/3d.jpg",
     "buttonText": "Visiter notre site",
-    "url": "https://www.example.com/online-ad2",
+    "url": "https://www.facebook.com/pao.madagascar",
     "description": "Promo incroyable avec le code {premiumCode}"
+  },
+    {
+    "adType": "image",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/star.jpg",
+    "buttonText": "Donner un avis",
+    "url": "https://play.google.com/store/apps/details?id=com.facture.easynice",
+    "description": "Rendez-vous sur Google Play"
   }
 
 ]
+
 
