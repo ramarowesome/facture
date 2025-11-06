@@ -5,6 +5,12 @@
     "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
     "type": "direct"
   },
+    {
+    "name": "Chaîne 07",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cstar-logo.jpg",
+    "url": "https://directfr.sbs/player/player.php?id=39",
+    "type": "scrape"
+  }
   {
     "name": "Chaîne 39",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cstar-logo.jpg",
