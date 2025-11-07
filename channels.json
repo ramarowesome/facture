@@ -33,7 +33,37 @@
   },
 
 
-  
+        {
+    "name": "Africa 24 (1080p)",
+    "logo": "https://i.postimg.cc/ZY9Y3vnk/africa24.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "Africa 24 Sport (1080p)",
+    "logo": "https://i.imgur.com/YWIJdai.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "LCI HD",
+    "logo": "https://i.imgur.com/DED8EXs.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "LCI (720p)",
+    "logo": "https://i.imgur.com/DED8EXs.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+
+
 
 
 
