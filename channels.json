@@ -67,7 +67,6 @@
     "url": "",
     "type": "iptvorg"
   },
-
         {
     "name": "Antenne Réunion",
     "logo": "https://i.imgur.com/qnappvd.jpeg",
@@ -75,23 +74,16 @@
     "type": "direct"
   },
 
-
-
-  
-
     {
     "name": "Bein Sport 1",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/BeIN_Sports_1HD_%282014%29.png/960px-BeIN_Sports_1HD_%282014%29.png",
     "url": "https://directfr.sbs/player/player.php?id=8",
     "type": "scrape"
   },
-
     {
     "name": "Boomerang",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png",
     "url": "https://directfr.sbs/player/player.php?id=94",
     "type": "scrape"
   }
-
-  
 ]
