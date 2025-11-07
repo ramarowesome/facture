@@ -55,6 +55,13 @@
   },
 
         {
+    "name": "LCP",
+    "logo": "https://i.imgur.com/k7UImOJ.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
     "name": "Euronews Français",
     "logo": "https://i.imgur.com/8t9mdg9.png",
     "url": "",
@@ -71,6 +78,13 @@
         {
     "name": "BBC Top Gear France (1080p)",
     "logo": "https://bbcnews.bbcstudios.com/media/6227/top-gear-logoapril_03_2023.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "Africanews French",
+    "logo": "https://i.imgur.com/5UxU4zc.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -104,6 +118,13 @@
     "type": "iptvorg"
   },
 
+       {
+    "name": "Le Figaro IDF (1080p)",
+    "logo": "https://i.imgur.com/a8RuRUQ.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
 
 
 
@@ -124,14 +145,37 @@
     "type": "iptvorg"
   },
 
+       {
+    "name": "Le Meilleur de la TV Realite (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_Les-Anges-9.png/800px-Logo_Les-Anges-9.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
+       {
+    "name": "KTO (404p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EY6TsdV.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
-
-
+       {
+    "name": "L'Effet Papillon",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/L_Effet_papillon_2006_logo.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
         {
-    "name": "Africanews French",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
+    "name": "FilmRise Binge Watch France (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+       {
+    "name": "FilmRise Séries France (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -172,6 +216,15 @@
     "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
     "type": "direct"
   },
+
+
+        {
+    "name": "L'Equipe (1080p)",
+    "logo": "https://i.imgur.com/t35zhM9.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
 
     {
     "name": "Bein Sport 1",
