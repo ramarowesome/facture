@@ -1,14 +1,30 @@
 [
   {
-    "name": "France 24",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/langfr-1280px-Logos_FRANCE24_RVB_2013.svg.png",
-    "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
+    "name": "20 minutes tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png",
+    "url": "https://live-20minutestv.digiteka.com/1961167769/tracks-v2a1/mono.ts.m3u8",
     "type": "direct"
   },
+  {
+    "name": "100% Docs",
+    "logo": "https://www.whydoc.fr/wp-content/uploads/elementor/thumbs/WhyDoc-WUD-pmvxztqktagpr119htq4cwg3swlti5v4zihr0odeow.jpg",
+    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.",
+    "type": "direct"
+  },
+
+
+
+
+
+
+  
+
     {
     "name": "Chaîne 07",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/Cstar-logo.jpg",
     "url": "https://directfr.sbs/player/player.php?id=39",
     "type": "scrape"
   }
+
+  
 ]
