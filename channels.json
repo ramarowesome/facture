@@ -55,11 +55,79 @@
   },
 
         {
-    "name": "LCI (720p)",
-    "logo": "https://i.imgur.com/DED8EXs.png",
+    "name": "Euronews Français",
+    "logo": "https://i.imgur.com/8t9mdg9.png",
     "url": "",
     "type": "iptvorg"
   },
+
+        {
+    "name": "Euronews Africanews Français",
+    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2022/06/africanews-logo-300x132.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "BBC Top Gear France (1080p)",
+    "logo": "https://bbcnews.bbcstudios.com/media/6227/top-gear-logoapril_03_2023.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+      {
+    "name": "BFM TV",
+    "logo": "https://i.imgur.com/YJCcczD.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+        {
+    "name": "BFM2",
+    "logo": "https://i.postimg.cc/PrbrSsjT/bfm2.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "BFM Business (576p)",
+    "logo": "https://i.imgur.com/psqIHn4.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+       {
+    "name": "BFM Tech & Co (1080p)",
+    "logo": "https://i.imgur.com/FQ0FpXV.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+
+
+
+       {
+    "name": "Drive TV (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Drive_tv_logo.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+
+       {
+    "name": "Fashion TV Paris (144p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+
+
+
 
         {
     "name": "Africanews French",
@@ -67,6 +135,37 @@
     "url": "",
     "type": "iptvorg"
   },
+
+        {
+    "name": "B Smart TV (320p)",
+    "logo": "https://i.imgur.com/RyVEFcG.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "Banijay Mr Bean Animé",
+    "logo": "https://m.media-amazon.com/images/M/MV5BZmY5MjE0ZGItY2Q0My00ZWI5LWJmYTEtYWUyMzFkY2FmZDM2XkEyXkFqcGc@._V1_.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "Banijay Mr Bean Classic",
+    "logo": "https://m.media-amazon.com/images/M/MV5BZmY2OGQ4MTAtYTRkMy00NmYxLThlZTktOGE1NTRmNDVlZmI4XkEyXkFqcGc@._V1_.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+        {
+    "name": "DBM TV",
+    "logo": "https://smotret.tv/images/dbm-tv.jpg",
+    "url": "https://edge14.vedge.infomaniak.com/livecast/dbmtv/chunklist_w2104231296.m3u8",
+    "type": "direct"
+  },
+
+
         {
     "name": "Antenne Réunion",
     "logo": "https://i.imgur.com/qnappvd.jpeg",
