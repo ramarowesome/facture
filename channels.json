@@ -17,6 +17,12 @@
     "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/france24french/playlist.m3u8",
     "type": "direct"
   },
+      {
+    "name": "France 24",
+    "logo": "https://i.imgur.com/u8N6uoj.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
 
 
