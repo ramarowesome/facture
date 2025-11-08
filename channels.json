@@ -5,6 +5,59 @@
     "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
     "type": "direct"
   },
+
+
+  {
+    "name": "Franceinfo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png",
+    "url": "https://www.youtube.com/c/franceinfo/live",
+    "type": "youtube"
+  },
+  {
+    "name": "Franceinfo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png",
+    "url": "https://www.youtube.com/c/franceinfo/live",
+    "type": "youtube"
+  },
+  {
+    "name": "Franceinfo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png",
+    "url": "https://www.youtube.com/c/franceinfo/live",
+    "type": "youtube"
+  },
+  {
+    "name": "Franceinfo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png",
+    "url": "https://www.youtube.com/c/franceinfo/live",
+    "type": "youtube"
+  },
+  {
+    "name": "Cnews",
+    "logo": "https://i.imgur.com/UMRGAHx.png",
+    "url": "https://www.dailymotion.com/video/x3b68jn",
+    "type": "dailymotion"
+  },
+  {
+    "name": "Cnews",
+    "logo": "https://i.imgur.com/UMRGAHx.png",
+    "url": "https://www.dailymotion.com/video/x3b68jn",
+    "type": "dailymotion"
+  },
+  {
+    "name": "Cnews",
+    "logo": "https://i.imgur.com/UMRGAHx.png",
+    "url": "https://www.dailymotion.com/video/x3b68jn",
+    "type": "dailymotion"
+  },
+  {
+    "name": "Cnews",
+    "logo": "https://i.imgur.com/UMRGAHx.png",
+    "url": "https://www.dailymotion.com/video/x3b68jn",
+    "type": "dailymotion"
+  },
+
+
+  
     {
     "name": "France 24",
     "logo": "https://i.imgur.com/u8N6uoj.png",
