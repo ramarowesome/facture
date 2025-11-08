@@ -52,13 +52,13 @@
         {
     "name": "Euronews Français",
     "logo": "https://i.imgur.com/8t9mdg9.png",
-    "url": "",
-    "type": "iptvorg"
+    "url": "https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8",
+    "type": "direct"
   },
 
-        {
-    "name": "Euronews Africanews Français",
-    "logo": "https://staticcyl.euronews.com/wp-content/uploads/2022/06/africanews-logo-300x132.jpg",
+          {
+    "name": "Africanews French",
+    "logo": "https://i.imgur.com/5UxU4zc.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -70,12 +70,7 @@
     "type": "iptvorg"
   },
 
-        {
-    "name": "Africanews French",
-    "logo": "https://i.imgur.com/5UxU4zc.png",
-    "url": "",
-    "type": "iptvorg"
-  },
+
 
       {
     "name": "BFM TV",
@@ -122,6 +117,12 @@
 
 
 
+  {
+    "name": "Nature Time France (1080p)",
+    "logo": "https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",
+    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8",
+    "type": "direct"
+  },
 
 
        {
