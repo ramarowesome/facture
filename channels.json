@@ -120,8 +120,8 @@
   {
     "name": "Nature Time France (1080p)",
     "logo": "https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",
-    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8",
-    "type": "direct"
+    "url": "",
+    "type": "iptvorg"
   },
 
 
@@ -200,6 +200,63 @@
 
 
 
+
+        {
+    "name": "Rakuten TV Films Action (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+       {
+    "name": "Rakuten TV Films Famille",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+       {
+    "name": "Rakuten TV Films Français (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "Rakuten TV Films Drames (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+        {
+    "name": "Rakuten TV Films Comédie (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "Rakuten TV Films Romance (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+          {
+    "name": "Rakuten TV Films Thriller (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+            {
+    "name": "Rakuten TV Top Films France (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+              {
+    "name": "Rakuten TV Trailers France (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
         {
     "name": "Les Années fac",
     "logo": "https://i.imgur.com/M1OjaB0.png",
@@ -254,6 +311,13 @@
     "logo": "https://smotret.tv/images/dbm-tv.jpg",
     "url": "https://edge14.vedge.infomaniak.com/livecast/dbmtv/chunklist_w2104231296.m3u8",
     "type": "direct"
+  },
+
+          {
+    "name": "P2M TV",
+    "logo": "https://i.imgur.com/TrecSeG.png",
+    "url": "",
+    "type": "iptvorg"
   },
 
 
