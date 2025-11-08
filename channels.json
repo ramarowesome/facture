@@ -104,8 +104,8 @@
        {
     "name": "BFM Tech & Co (1080p)",
     "logo": "https://i.imgur.com/FQ0FpXV.png",
-    "url": "",
-    "type": "iptvorg"
+    "url": "https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m7/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544&bpkio_sessionid=10a0e9f221-ecb42f36-6834-416f-85ad-58bb46536bd5&category=all&mm_sp",
+    "type": "direct"
   },
 
        {
@@ -122,17 +122,12 @@
     "type": "direct"
   },
 
-
-
   {
     "name": "Nature Time France (1080p)",
     "logo": "https://naturetimetv.com/wp-content/uploads/2023/09/NatureTime_Primary-Logo.png",
     "url": "",
     "type": "iptvorg"
   },
-
-
-
 
         {
     "name": "Trace Sport Stars (Australia) (1080p)",
@@ -141,26 +136,16 @@
     "type": "iptvorg"
   },
 
-
-
        {
     "name": "Drive TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
+    "logo": "http://drivetv.co.uk/images/DriveTV_logo_header_white.png",
     "url": "",
     "type": "iptvorg"
   },
 
        {
     "name": "Canal Savoir (360p)",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Motorvision_TV_2009.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-
-
-       {
-    "name": "Motorvision",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Motorvision_TV_2009.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -346,12 +331,6 @@
   },
             {
     "name": "Rakuten TV Top Films France (720p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-              {
-    "name": "Rakuten TV Trailers France (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
     "url": "",
     "type": "iptvorg"
@@ -608,10 +587,57 @@
     "url": "https://directfr.sbs/player/player.php?id=8",
     "type": "scrape"
   },
+     {
+    "name": "RMC Sport 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/125px-Logo_RMC_Sport_1_2018.svg.png",
+    "url": "https://directfr.sbs/player/player.php?id=1",
+    "type": "scrape"
+  },
+     {
+    "name": "RMC Sport 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/91px-Logo_RMC_Sport_2_2018.svg.png",
+    "url": "https://directfr.sbs/player/player.php?id=2",
+    "type": "scrape"
+  },
+
+
+
+
+
+    {
+    "name": "Game One",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/512px-Logo_Game_One_%282024%29.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=10",
+    "type": "scrape"
+  },
+    {
+    "name": "Cartoon Network",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png",
+    "url": "https://directfr.sbs/player/player.php?id=28",
+    "type": "scrape"
+  },
     {
     "name": "Boomerang",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png",
     "url": "https://directfr.sbs/player/player.php?id=94",
+    "type": "scrape"
+  },
+        {
+    "name": "J-One",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/J-One.svg/425px-J-One.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=90",
+    "type": "scrape"
+  },
+        {
+    "name": "Tiji",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png?20191021180241",
+    "url": "https://play.frembed.mom/api/player.php?id=91",
+    "type": "scrape"
+  },
+      {
+    "name": "Mangas",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png",
+    "url": "https://play.frembed.mom/api/player.php?id=7",
     "type": "scrape"
   },
 
