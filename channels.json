@@ -217,7 +217,12 @@
 
 
 
-
+           {
+    "name": "Vosges Télévision (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7y7ancc.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
        {
     "name": "TV3V (720p)",
@@ -231,13 +236,55 @@
     "url": "",
     "type": "iptvorg"
   },
+           {
+    "name": "ViàMatélé (1080p)",
+    "logo": "https://i.imgur.com/XVCV9rj.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
 
 
 
 
 
+           {
+    "name": "Zylo Into Crime (1080p)",
+    "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/zv50yz0mc58u47lu.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
+
+
+
+
+
+           {
+    "name": "Zylo Ciné Nanar",
+    "logo": "https://static.wixstatic.com/media/5406f2_d3df246a6f19459a8653444b3d6c6761~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_85/5406f2_d3df246a6f19459a8653444b3d6c6761~mv2.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+               {
+    "name": "Zylo Emotion' L",
+    "logo": "https://static.wixstatic.com/media/6ba705_5193d9a37da44d3898aed28bb9177835~mv2.png/v1/fill/w_280,h_157,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Channel_logo_Rakuten_tv_blanc.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+                 {
+    "name": "Zylo ScreamIN",
+    "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/06/chaine-de-tele-screaminplus.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+             {
+    "name": "Zylo Ciné Western",
+    "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/acctq9dx6s3sg9oq.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
 
         {
     "name": "Rakuten TV Films Action (720p)",
@@ -344,6 +391,16 @@
   },
 
 
+
+
+
+
+        {
+    "name": "Zylo Fréquence Novelas",
+    "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/ee3icmhzkti0v0ir.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
 
 
 
@@ -491,6 +548,14 @@
   },
 
 
+            {
+    "name": "Afroculture TV",
+    "logo": "https://i.imgur.com/bjaZ3kO.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
         {
     "name": "Antenne Réunion",
     "logo": "https://i.imgur.com/qnappvd.jpeg",
@@ -519,4 +584,10 @@
     "url": "https://directfr.sbs/player/player.php?id=94",
     "type": "scrape"
   }
+
+
+
+
+
+
 ]
