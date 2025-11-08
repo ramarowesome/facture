@@ -160,26 +160,7 @@
     "type": "iptvorg"
   },
 
-       {
-    "name": "Le Meilleur de la TV Realite (1080p)",
-    "logo": "https://static.pratique.fr/images/unsized/lo/logo-secret-strory.jpg",
-    "url": "",
-    "type": "iptvorg"
-  },
-{
 
-    "name": "Les Anges",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_Les-Anges-9.png/800px-Logo_Les-Anges-9.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-
-       {
-    "name": "Le Meilleur d'Arthur",
-    "logo": "https://www.planetecsat.com/wp-content/uploads/2024/05/logo-le-meilleur-darthur.png",
-    "url": "",
-    "type": "iptvorg"
-  },
        {
     "name": "Les Z'amours",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/d/da/Les_Z%27amours_%28logo%29.png",
@@ -255,6 +236,12 @@
     "url": "https://play.frembed.mom/api/player.php?id=17",
     "type": "scrape"
   },
+      {
+      "name": "TCM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TCM_Cin%C3%A9ma_logo_2019.png/330px-TCM_Cin%C3%A9ma_logo_2019.png",
+    "url": "https://play.frembed.mom/api/player.php?id=33",
+    "type": "scrape"
+  },
     {
       "name": "Syfy",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/139px-Syfy.svg.png",
@@ -292,6 +279,12 @@
     "type": "scrape"
   },
           {
+    "name": "TF1 Séries Films",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/330px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=122",
+    "type": "scrape"
+  },
+          {
     "name": "France 2",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/330px-France_2_-_logo_2018.svg.png",
     "url": "https://play.frembed.mom/api/player.php?id=48",
@@ -315,13 +308,32 @@
     "url": "https://play.frembed.mom/api/player.php?id=26",
     "type": "scrape"
   },
+              {
+    "name": "NAT GEO",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=20",
+    "type": "scrape"
+  },
+              {
+    "name": "NAT GEO Wild",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/330px-Logo_Nat_Geo_Wild.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=21",
+    "type": "scrape"
+  },
+
+
+              {
+    "name": "Animaux",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/330px-Logo-Animaux-2017.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=34",
+    "type": "scrape"
+  },
            {
     "name": "Zylo Into Crime (1080p)",
     "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/zv50yz0mc58u47lu.png",
     "url": "",
     "type": "iptvorg"
   },
-
 
            {
     "name": "Zylo Ciné Nanar",
@@ -446,9 +458,33 @@
     "url": "",
     "type": "iptvorg"
   },
+       {
+    "name": "Le Meilleur de la TV Realite (1080p)",
+    "logo": "https://static.pratique.fr/images/unsized/lo/logo-secret-strory.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+{
 
+    "name": "Les Anges",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_Les-Anges-9.png/800px-Logo_Les-Anges-9.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
+       {
+    "name": "Le Meilleur d'Arthur",
+    "logo": "https://www.planetecsat.com/wp-content/uploads/2024/05/logo-le-meilleur-darthur.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
+      {
+      "name": "Cstar",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cstar-logo.jpg/330px-Cstar-logo.jpg",
+    "url": "https://play.frembed.mom/api/player.php?id=111",
+    "type": "scrape"
+  },
 
         {
     "name": "Novelas TV",
@@ -469,12 +505,47 @@
     "url": "",
     "type": "iptvorg"
   },
-
-
         {
+    "name": "Trace Urban (Australia) (1080p)",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+       {
+    "name": "Trace Latina",
+    "logo": "https://i.imgur.com/CUVAi4u.png",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/6232c7c8-0742-48eb-bd85-714f1a2183ce/2.m3u8",
+    "type": "direct"
+  },
+          {
+    "name": "Trace UK",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/e274b095-bd1a-4807-9e97-6153c5a90332/2.m3u8",
+    "type": "direct"
+  },
+        {
+    "name": "Trace Hits (1080p)",
+    "logo": "https://i.imgur.com/Vvxz6KX.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "TRACE BRAZUCA",
+    "logo": "https://i.imgur.com/DFBocPu.png",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/facba0f5-8995-461e-9d74-fe6986173512/0.m3u8",
+    "type": "direct"
+  },
+          {
     "name": "MTV",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png",
     "url": "https://play.frembed.mom/api/player.php?id=46",
+    "type": "scrape"
+  },
+
+        {
+    "name": "Nrj 12",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png",
+    "url": "https://play.frembed.mom/api/player.php?id=124",
     "type": "scrape"
   },
           {
@@ -490,42 +561,6 @@
     "type": "scrape"
   },
 
-        {
-    "name": "Trace Urban (Australia) (1080p)",
-    "logo": "https://i.imgur.com/DLIbUMx.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-        {
-    "name": "TRACE UK (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-        {
-    "name": "Trace Latina [Geo-blocked]",
-    "logo": "https://i.imgur.com/CUVAi4u.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-        {
-    "name": "Trace Hits (1080p)",
-    "logo": "https://i.imgur.com/Vvxz6KX.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-        {
-    "name": "TRACE BRAZUCA",
-    "logo": "https://i.imgur.com/DFBocPu.png",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/facba0f5-8995-461e-9d74-fe6986173512/0.m3u8",
-    "type": "direct"
-  },
-            {
-    "name": "Vevo Hip Hop",
-    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
-    "url": "",
-    "type": "iptvorg"
-  },
               {
     "name": "Vevo Hip-Hop & R&B (1080p)",
     "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
@@ -550,12 +585,7 @@
     "url": "",
     "type": "iptvorg"
   },
-        {
-      "name": "Vevo Reggaeton & Trap",
-    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
-    "url": "",
-    "type": "iptvorg"
-  },
+
           {
     "name": "Vevo 2K (1080p)",
     "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
@@ -598,24 +628,7 @@
     "url": "",
     "type": "iptvorg"
   },
-              {
-      "name": "VH1 Hip Hop Family",
-    "logo": "https://i.imgur.com/vZ3knKt.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-                {
-      "name": "VH1 Hip Hop Family 2",
-    "logo": "https://i.imgur.com/vZ3knKt.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-        {
-    "name": "RTL 2 (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/512px-RTL_2_Logo.svg.png",
-    "url": "",
-    "type": "iptvorg"
-  },
+
 
         {
     "name": "DBM TV",
@@ -652,19 +665,24 @@
     "type": "iptvorg"
   },
 
-
-
-
-
-
-
         {
     "name": "L'Equipe (1080p)",
     "logo": "https://i.imgur.com/t35zhM9.png",
     "url": "",
     "type": "iptvorg"
   },
-
+        {
+    "name": "L'Equipe 1",
+    "logo": "https://i.imgur.com/t35zhM9.png",
+    "url": "https://play.frembed.mom/api/player.php?id=79",
+    "type": "scrape"
+  },
+          {
+    "name": "L'Equipe 2",
+    "logo": "https://i.imgur.com/t35zhM9.png",
+    "url": "https://play.frembed.mom/api/player.php?id=80",
+    "type": "scrape"
+  },
 
     {
     "name": "Bein Sport 1",
@@ -715,9 +733,25 @@
     "type": "scrape"
   },
 
+         {
+    "name": "DAZN 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/330px-DAZN_1.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=57",
+    "type": "scrape"
+  },
 
-
-
+         {
+    "name": "DAZN 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/330px-DAZN_2.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=58",
+    "type": "scrape"
+  },
+           {
+    "name": "DAZN 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/330px-DAZN_3.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=73",
+    "type": "scrape"
+  },
 
     {
     "name": "Game One",
