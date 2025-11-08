@@ -255,20 +255,72 @@
     "url": "https://play.frembed.mom/api/player.php?id=17",
     "type": "scrape"
   },
-
-
-
-
+    {
+      "name": "Syfy",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/139px-Syfy.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=29",
+    "type": "scrape"
+  },
+      {
+      "name": "RTL 9",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Logo_RTL9_%282023%29.svg/330px-Logo_RTL9_%282023%29.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=31",
+    "type": "scrape"
+  },
+      {
+    "name": "OCS City",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/330px-OCS.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=23",
+    "type": "scrape"
+  },
+      {
+    "name": "M6",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=39",
+    "type": "scrape"
+  },
+      {
+    "name": "W9",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/330px-W9-Logo.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=18",
+    "type": "scrape"
+  },
+        {
+    "name": "TF1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/330px-Logo_TF1_2013.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=27",
+    "type": "scrape"
+  },
+          {
+    "name": "France 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/330px-France_2_-_logo_2018.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=48",
+    "type": "scrape"
+  },
+            {
+    "name": "France 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/330px-France_3_-_logo_2018.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=49",
+    "type": "scrape"
+  },
+            {
+    "name": "RMC Story",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/330px-RMC_Story_logo_2018.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=19",
+    "type": "scrape"
+  },
+              {
+    "name": "RMC Découverte",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/330px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=26",
+    "type": "scrape"
+  },
            {
     "name": "Zylo Into Crime (1080p)",
     "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/zv50yz0mc58u47lu.png",
     "url": "",
     "type": "iptvorg"
   },
-
-
-
-
 
 
            {
@@ -398,7 +450,12 @@
 
 
 
-
+        {
+    "name": "Novelas TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Novelas_logo.jpg",
+    "url": "https://directfr.sbs/player/player.php?id=3",
+    "type": "scrape"
+  },
 
         {
     "name": "Zylo Fréquence Novelas",
