@@ -82,8 +82,8 @@
       {
     "name": "BFM TV",
     "logo": "https://i.imgur.com/YJCcczD.png",
-    "url": "",
-    "type": "iptvorg"
+    "url": "https://play.frembed.mom/api/player.php?id=89",
+    "type": "scrape"
   },
 
 
