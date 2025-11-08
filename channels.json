@@ -5,12 +5,7 @@
     "url": "https://live-20minutestv.digiteka.com/1961167769/index.m3u8",
     "type": "direct"
   },
-  {
-    "name": "100% Docs",
-    "logo": "https://www.whydoc.fr/wp-content/uploads/elementor/thumbs/WhyDoc-WUD-pmvxztqktagpr119htq4cwg3swlti5v4zihr0odeow.jpg",
-    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8",
-    "type": "direct"
-  },
+
     {
     "name": "France 24",
     "logo": "https://i.imgur.com/u8N6uoj.png",
@@ -21,13 +16,6 @@
       {
     "name": "Franceinfo",
     "logo": "https://i.imgur.com/eITXz6A.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-
-      {
-    "name": "France Inter",
-    "logo": "https://i.imgur.com/MgBeU52.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -125,6 +113,13 @@
     "type": "iptvorg"
   },
 
+  {
+    "name": "100% Docs",
+    "logo": "https://www.whydoc.fr/wp-content/uploads/elementor/thumbs/WhyDoc-WUD-pmvxztqktagpr119htq4cwg3swlti5v4zihr0odeow.jpg",
+    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8",
+    "type": "direct"
+  },
+
 
 
 
@@ -132,6 +127,13 @@
        {
     "name": "Drive TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Drive_tv_logo.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+       {
+    "name": "Motorvision",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Motorvision_TV_2009.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -147,7 +149,26 @@
 
        {
     "name": "Le Meilleur de la TV Realite (1080p)",
+    "logo": "https://static.pratique.fr/images/unsized/lo/logo-secret-strory.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+    "name": "Les Anges",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_Les-Anges-9.png/800px-Logo_Les-Anges-9.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+       {
+    "name": "Le Meilleur d'Arthur",
+    "logo": "https://www.planetecsat.com/wp-content/uploads/2024/05/logo-le-meilleur-darthur.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+       {
+    "name": "Les Z'amours",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/d/da/Les_Z%27amours_%28logo%29.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -160,8 +181,32 @@
   },
 
        {
+    "name": "Les Secrets de Nos Régions",
+    "logo": "https://framerusercontent.com/images/2Ke7bRjvpKwnfjEO0nSqcjhtTY.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+       {
     "name": "L'Effet Papillon",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/L_Effet_papillon_2006_logo.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+
+
+
+        {
+    "name": "Les Années fac",
+    "logo": "https://i.imgur.com/M1OjaB0.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "MyTime Movie Network France",
+    "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/65d3cbde-bb70-4740-973c-76605fcb7df3-mytime-movie-network-1643366458/variants/49f6b89bd291722c227e312eaa7d04e4380b4c0b7611bf68a82c328d2c00fcb9-width308-quality90.webp",
     "url": "",
     "type": "iptvorg"
   },
