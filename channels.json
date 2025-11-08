@@ -471,7 +471,24 @@
   },
 
 
-
+        {
+    "name": "MTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=46",
+    "type": "scrape"
+  },
+          {
+    "name": "MTV Hits",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=120",
+    "type": "scrape"
+  },
+            {
+    "name": "M6 Music",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo-M6music.svg/330px-Logo-M6music.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=45",
+    "type": "scrape"
+  },
 
         {
     "name": "Trace Urban (Australia) (1080p)",
