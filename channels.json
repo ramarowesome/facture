@@ -36,11 +36,18 @@
   },
 
         {
+    "name": "RT France (1080p) [Geo-blocked]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+          {
     "name": "LCI HD",
     "logo": "https://i.imgur.com/DED8EXs.png",
     "url": "",
     "type": "iptvorg"
   },
+
 
         {
     "name": "LCP",
@@ -52,7 +59,7 @@
         {
     "name": "Euronews Français",
     "logo": "https://i.imgur.com/8t9mdg9.png",
-    "url": "https://fstv.fun/player/fsplayer.php?id=170",
+    "url": "https://play.frembed.mom/api/player.php?id=88",
     "type": "scrape"
   },
 
@@ -125,6 +132,17 @@
   },
 
 
+
+
+        {
+    "name": "Trace Sport Stars (Australia) (1080p)",
+    "logo": "https://i.imgur.com/FabFP5A.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+
        {
     "name": "Drive TV (1080p)",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Drive_tv_logo.png",
@@ -195,6 +213,26 @@
     "url": "",
     "type": "iptvorg"
   },
+
+
+
+
+
+
+       {
+    "name": "TV3V (720p)",
+    "logo": "https://i.ibb.co/X2yd0zL/logo-tv3v.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+         {
+    "name": "TV7 Colmar (576p)",
+    "logo": "https://i.imgur.com/kSdGi43.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
 
 
 
@@ -305,6 +343,138 @@
     "type": "iptvorg"
   },
 
+
+
+
+
+
+
+        {
+    "name": "Trace Urban (Australia) (1080p)",
+    "logo": "https://i.imgur.com/DLIbUMx.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "TRACE UK (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "Trace Latina [Geo-blocked]",
+    "logo": "https://i.imgur.com/CUVAi4u.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "Trace Hits (1080p)",
+    "logo": "https://i.imgur.com/Vvxz6KX.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "TRACE BRAZUCA",
+    "logo": "https://i.imgur.com/DFBocPu.png",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/facba0f5-8995-461e-9d74-fe6986173512/0.m3u8",
+    "type": "direct"
+  },
+            {
+    "name": "Vevo Hip Hop",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+              {
+    "name": "Vevo Hip-Hop & R&B (1080p)",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+  {
+      "name": "Vevo Latino (1080p)",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+    {
+      "name": "Vevo Pop (1080p)",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+      {
+      "name": "Vevo R&B",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+      "name": "Vevo Reggaeton & Trap",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+          {
+    "name": "Vevo 2K (1080p)",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+          {
+    "name": "Vevo 70s (1080p)",
+    "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+            {
+    "name": "Vevo 80s (1080p)",
+    "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+              {
+    "name": "Vevo 90s (1080p)",
+    "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+                {
+    "name": "Vevo Country (1080p)",
+    "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+          {
+      "name": "Vevo Retro Rock (1080p)",
+    "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
+            {
+      "name": "Vevo True School Hip-Hop",
+    "logo": "https://i.imgur.com/owUXUih.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+              {
+      "name": "VH1 Hip Hop Family",
+    "logo": "https://i.imgur.com/vZ3knKt.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+                {
+      "name": "VH1 Hip Hop Family 2",
+    "logo": "https://i.imgur.com/vZ3knKt.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+        {
+    "name": "RTL 2 (1080p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/512px-RTL_2_Logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
         {
     "name": "DBM TV",
