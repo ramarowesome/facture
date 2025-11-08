@@ -6,35 +6,6 @@
     "type": "direct"
   },
 
-
-
-  {
-    "name": "Cnews",
-    "logo": "https://i.imgur.com/UMRGAHx.png",
-    "url": "https://www.dailymotion.com/video/x3b68jn",
-    "type": "dailymotion"
-  },
-  {
-    "name": "Cnews",
-    "logo": "https://i.imgur.com/UMRGAHx.png",
-    "url": "https://www.dailymotion.com/video/x3b68jn",
-    "type": "dailymotion"
-  },
-  {
-    "name": "Cnews",
-    "logo": "https://i.imgur.com/UMRGAHx.png",
-    "url": "https://www.dailymotion.com/video/x3b68jn",
-    "type": "dailymotion"
-  },
-  {
-    "name": "Cnews",
-    "logo": "https://i.imgur.com/UMRGAHx.png",
-    "url": "https://www.dailymotion.com/video/x3b68jn",
-    "type": "dailymotion"
-  },
-
-
-  
     {
     "name": "France 24",
     "logo": "https://i.imgur.com/u8N6uoj.png",
@@ -49,6 +20,12 @@
     "type": "iptvorg"
   },
 
+        {
+    "name": "I24 News French (720p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
         {
     "name": "Africa 24 (1080p)",
@@ -72,7 +49,7 @@
   },
           {
     "name": "LCI HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/640px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png",
+    "logo": "https://i.imgur.com/DED8EXs.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -196,6 +173,12 @@
     "url": "",
     "type": "iptvorg"
   },
+         {
+    "name": "30A Ridiculous TV",
+    "logo": "https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg",
+    "url": "",
+    "type": "iptvorg"
+  },
 
        {
     "name": "KTO (404p) [Not 24/7]",
@@ -203,12 +186,23 @@
     "url": "",
     "type": "iptvorg"
   },
-
+       {
+    "name": "3ABN French",
+    "logo": "https://i.imgur.com/B5gsM7m.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+         {
+    "name": "3ABN Praise Him Music Network",
+    "logo": "https://i.imgur.com/B5gsM7m.png",
+    "url": "",
+    "type": "iptvorg"
+  },
        {
     "name": "Les Secrets de Nos Régions",
     "logo": "https://framerusercontent.com/images/2Ke7bRjvpKwnfjEO0nSqcjhtTY.png",
-    "url": "",
-    "type": "iptvorg"
+    "url": "https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8",
+    "type": "direct"
   },
          {
     "name": "RTVC (720p)",
@@ -389,7 +383,12 @@
     "url": "",
     "type": "iptvorg"
   },
-
+          {
+    "name": "Pluto TV French Collection",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/330px-Pluto_TV_logo_2020.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
         {
     "name": "Rakuten TV Films Action (720p)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png",
@@ -582,6 +581,24 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
     "url": "https://play.frembed.mom/api/player.php?id=120",
     "type": "scrape"
+  },
+              {
+    "name": "MTV CLASSICS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+            {
+    "name": "MTV Flow Latino",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+              {
+    "name": "MTV Classics+",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
+    "url": "",
+    "type": "iptvorg"
   },
             {
     "name": "M6 Music",
