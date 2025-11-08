@@ -145,10 +145,18 @@
 
        {
     "name": "Drive TV (1080p)",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Drive_tv_logo.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
     "url": "",
     "type": "iptvorg"
   },
+
+       {
+    "name": "Canal Savoir (360p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Motorvision_TV_2009.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
 
        {
     "name": "Motorvision",
@@ -156,6 +164,7 @@
     "url": "",
     "type": "iptvorg"
   },
+
 
 
 
@@ -203,6 +212,12 @@
        {
     "name": "Les Secrets de Nos Régions",
     "logo": "https://framerusercontent.com/images/2Ke7bRjvpKwnfjEO0nSqcjhtTY.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+         {
+    "name": "RTVC (720p)",
+    "logo": "https://i.imgur.com/oXuSkHz.png",
     "url": "",
     "type": "iptvorg"
   },
@@ -401,7 +416,12 @@
     "url": "",
     "type": "iptvorg"
   },
-
+        {
+    "name": "NTV Afrique (1080p)",
+    "logo": "https://i.imgur.com/qqLXdHz.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
 
 
@@ -555,13 +575,23 @@
     "type": "iptvorg"
   },
 
-
         {
     "name": "Antenne Réunion",
     "logo": "https://i.imgur.com/qnappvd.jpeg",
     "url": "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01",
     "type": "direct"
   },
+            {
+    "name": "Guide Love TV (720p)",
+    "logo": "https://i.ibb.co/9gS2Y4G/guidelove-logo.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+
+
+
+
+
 
 
         {
@@ -585,7 +615,12 @@
     "type": "scrape"
   }
 
-
+           {
+    "name": "REFLET TV (1080p)",
+    "logo": "https://i.imgur.com/EauXR22.png",
+    "url": "",
+    "type": "iptvorg"
+  },
 
 
 
