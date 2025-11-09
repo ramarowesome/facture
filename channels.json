@@ -117,13 +117,6 @@
   },
 
        {
-    "name": "BFM Tech & Co (1080p)",
-    "logo": "https://i.imgur.com/FQ0FpXV.png",
-    "url": "https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m7/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544&bpkio_sessionid=10a0e9f221-ecb42f36-6834-416f-85ad-58bb46536bd5&category=all&mm_sp",
-    "type": "direct"
-  },
-
-       {
     "name": "Le Figaro IDF (1080p)",
     "logo": "https://i.imgur.com/a8RuRUQ.png",
     "url": "",
@@ -222,7 +215,12 @@
   },
 
 
-
+           {
+    "name": "C8",
+    "logo": "https://i.imgur.com/LXhXF8l.png",
+    "url": "https://www.dailymotion.com/video/x5gv5rr",
+    "type": "direct"
+  },
 
            {
     "name": "Vosges Télévision (576p) [Not 24/7]",
@@ -273,6 +271,12 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/139px-Syfy.svg.png",
     "url": "https://play.frembed.mom/api/player.php?id=29",
     "type": "scrape"
+  },
+        {
+      "name": "RTL 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logo_RTL2_Lux.svg/330px-Logo_RTL2_Lux.svg.png",
+    "url": "https://www.dailymotion.com/video/x7rkbk4",
+    "type": "dailymotion"
   },
       {
       "name": "RTL 9",
@@ -752,6 +756,12 @@
     "logo": "https://i.ibb.co/9gS2Y4G/guidelove-logo.png",
     "url": "",
     "type": "iptvorg"
+  },
+          {
+    "name": "Men's UP TV live",
+    "logo": "https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/mens-up-tv-logo.png",
+    "url": "https://www.dailymotion.com/video/x2kr3hs",
+    "type": "dailymotion"
   },
 
        {
