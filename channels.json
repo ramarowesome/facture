@@ -60,12 +60,6 @@
     "type": "iptvorg"
   },
 
-        {
-    "name": "Euronews Français",
-    "logo": "https://i.imgur.com/8t9mdg9.png",
-    "url": "https://play.frembed.mom/api/player.php?id=88",
-    "type": "scrape"
-  },
           {
     "name": "TV5 Monde",
     "logo": "https://i.imgur.com/NcysrWH.png",
@@ -92,14 +86,6 @@
     "type": "iptvorg"
   },
 
-
-
-      {
-    "name": "BFM TV",
-    "logo": "https://i.imgur.com/YJCcczD.png",
-    "url": "https://play.frembed.mom/api/player.php?id=89",
-    "type": "scrape"
-  },
 
 
         {
@@ -247,151 +233,6 @@
     "url": "",
     "type": "iptvorg"
   },
-    {
-      "name": "TFX",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/330px-TFX_logo_2018.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=16",
-    "type": "scrape"
-  },
-
-    {
-      "name": "TMC",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/330px-TMC_logo_2016.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=17",
-    "type": "scrape"
-  },
-      {
-      "name": "TCM",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TCM_Cin%C3%A9ma_logo_2019.png/330px-TCM_Cin%C3%A9ma_logo_2019.png",
-    "url": "https://play.frembed.mom/api/player.php?id=33",
-    "type": "scrape"
-  },
-    {
-      "name": "Syfy",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/139px-Syfy.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=29",
-    "type": "scrape"
-  },
-        {
-      "name": "RTL 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logo_RTL2_Lux.svg/330px-Logo_RTL2_Lux.svg.png",
-    "url": "https://www.dailymotion.com/video/x7rkbk4",
-    "type": "dailymotion"
-  },
-      {
-      "name": "RTL 9",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Logo_RTL9_%282023%29.svg/330px-Logo_RTL9_%282023%29.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=31",
-    "type": "scrape"
-  },
-      {
-    "name": "OCS City",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/330px-OCS.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=23",
-    "type": "scrape"
-  },
-      {
-    "name": "M6",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=39",
-    "type": "scrape"
-  },
-      {
-    "name": "W9",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/330px-W9-Logo.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=18",
-    "type": "scrape"
-  },
-        {
-    "name": "TF1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/330px-Logo_TF1_2013.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=27",
-    "type": "scrape"
-  },
-          {
-    "name": "TF1 Séries Films",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/330px-TF1_S%C3%A9ries_Films_logo_2020.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=122",
-    "type": "scrape"
-  },
-          {
-    "name": "France 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/330px-France_2_-_logo_2018.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=48",
-    "type": "scrape"
-  },
-            {
-    "name": "France 3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/330px-France_3_-_logo_2018.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=49",
-    "type": "scrape"
-  },
-            {
-    "name": "RMC Story",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/330px-RMC_Story_logo_2018.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=19",
-    "type": "scrape"
-  },
-              {
-    "name": "RMC Life",
-    "logo": "https://i.postimg.cc/2yS3sCNs/cherie25.png",
-    "url": "",
-    "type": "iptvorg"
-  },
-              {
-    "name": "RMC Découverte",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/330px-RMC_D%C3%A9couverte_logo_2017.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=26",
-    "type": "scrape"
-  },
-              {
-    "name": "NAT GEO",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=20",
-    "type": "scrape"
-  },
-              {
-    "name": "NAT GEO Wild",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/330px-Logo_Nat_Geo_Wild.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=21",
-    "type": "scrape"
-  },
-              {
-    "name": "Arte",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/330px-Arte-Logo.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=123",
-    "type": "scrape"
-  },
-                {
-    "name": "Toute l´Histoire",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Toute_l%27Histoire_%282013%29.svg/330px-Toute_l%27Histoire_%282013%29.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=101",
-    "type": "scrape"
-  },
-                  {
-    "name": "Science & Vie",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Science_%26_Vie_TV.svg/330px-Science_%26_Vie_TV.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=121",
-    "type": "scrape"
-  },
-                {
-    "name": "Discovery Channel",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/330px-Discovery_Channel_-_Logo_2019.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=108",
-    "type": "scrape"
-  },
-                {
-    "name": "Discovery Science",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=107",
-    "type": "scrape"
-  },
-              {
-    "name": "Animaux",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo-Animaux-2017.svg/330px-Logo-Animaux-2017.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=34",
-    "type": "scrape"
-  },
            {
     "name": "Zylo Into Crime (1080p)",
     "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/zv50yz0mc58u47lu.png",
@@ -429,18 +270,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/330px-Pluto_TV_logo_2020.svg.png",
     "url": "",
     "type": "iptvorg"
-  },
-            {
-    "name": "Action",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/330px-Action_France_%282000%29.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=51",
-    "type": "scrape"
-  },
-              {
-    "name": "Warner TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/250px-Warner_Channel.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=53",
-    "type": "scrape"
   },
         {
     "name": "Rakuten TV Films Action (720p)",
@@ -559,21 +388,6 @@
     "url": "",
     "type": "iptvorg"
   },
-
-      {
-      "name": "Cstar",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cstar-logo.jpg/330px-Cstar-logo.jpg",
-    "url": "https://play.frembed.mom/api/player.php?id=111",
-    "type": "scrape"
-  },
-
-        {
-    "name": "Novelas TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Novelas_logo.jpg",
-    "url": "https://directfr.sbs/player/player.php?id=3",
-    "type": "scrape"
-  },
-
         {
     "name": "Zylo Fréquence Novelas",
     "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/ee3icmhzkti0v0ir.jpg",
@@ -616,25 +430,6 @@
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/facba0f5-8995-461e-9d74-fe6986173512/0.m3u8",
     "type": "direct"
   },
-          {
-    "name": "MTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=46",
-    "type": "scrape"
-  },
-
-        {
-    "name": "Nrj 12",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png",
-    "url": "https://play.frembed.mom/api/player.php?id=124",
-    "type": "scrape"
-  },
-          {
-    "name": "MTV Hits",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=120",
-    "type": "scrape"
-  },
               {
     "name": "MTV CLASSICS",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
@@ -652,12 +447,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/250px-MTV_Hits_2017_logo.svg.png",
     "url": "",
     "type": "iptvorg"
-  },
-            {
-    "name": "M6 Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo-M6music.svg/330px-Logo-M6music.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=45",
-    "type": "scrape"
   },
 
               {
@@ -777,12 +566,6 @@
     "type": "iptvorg"
   },
         {
-    "name": "Automoto",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Automoto_%28chaine_TV_2018%29.jpg/330px-Logo_Automoto_%28chaine_TV_2018%29.jpg",
-    "url": "https://play.frembed.mom/api/player.php?id=68",
-    "type": "scrape"
-  },
-        {
     "name": "Trace Sport Stars (Australia) (1080p)",
     "logo": "https://i.imgur.com/FabFP5A.png",
     "url": "",
@@ -801,125 +584,7 @@
     "url": "",
     "type": "iptvorg"
   },
-        {
-    "name": "L'Equipe 1",
-    "logo": "https://i.imgur.com/t35zhM9.png",
-    "url": "https://play.frembed.mom/api/player.php?id=79",
-    "type": "scrape"
-  },
-          {
-    "name": "L'Equipe 2",
-    "logo": "https://i.imgur.com/t35zhM9.png",
-    "url": "https://play.frembed.mom/api/player.php?id=80",
-    "type": "scrape"
-  },
-
-    {
-    "name": "Bein Sport 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/BeIN_Sports_1HD_%282014%29.png/960px-BeIN_Sports_1HD_%282014%29.png",
-    "url": "https://directfr.sbs/player/player.php?id=8",
-    "type": "scrape"
-  },
-       {
-    "name": "Bein Sport 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/BeIN_Sport_2_%282012%29.png/330px-BeIN_Sport_2_%282012%29.png",
-    "url": "https://play.frembed.mom/api/player.php?id=9",
-    "type": "scrape"
-  },
-         {
-    "name": "Bein Sport 3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BeIN_Sports_3_HD.png/330px-BeIN_Sports_3_HD.png",
-    "url": "https://play.frembed.mom/api/player.php?id=11",
-    "type": "scrape"
-  },
-     {
-    "name": "RMC Sport 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/125px-Logo_RMC_Sport_1_2018.svg.png",
-    "url": "https://directfr.sbs/player/player.php?id=1",
-    "type": "scrape"
-  },
-     {
-    "name": "RMC Sport 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/91px-Logo_RMC_Sport_2_2018.svg.png",
-    "url": "https://directfr.sbs/player/player.php?id=2",
-    "type": "scrape"
-  },
-     {
-    "name": "RMC Sport 3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_RMC_Sport_3_2018.svg/330px-Logo_RMC_Sport_3_2018.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=4",
-    "type": "scrape"
-  },
-       {
-    "name": "EUROSPORT 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Eurosport_1_2022.png/960px-Eurosport_1_2022.png",
-    "url": "https://play.frembed.mom/api/player.php?id=14",
-    "type": "scrape"
-  },
-         {
-    "name": "EUROSPORT 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/6/6b/Eurosport_2_2022.png",
-    "url": "https://play.frembed.mom/api/player.php?id=15",
-    "type": "scrape"
-  },
-
-         {
-    "name": "DAZN 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/330px-DAZN_1.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=57",
-    "type": "scrape"
-  },
-
-         {
-    "name": "DAZN 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/330px-DAZN_2.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=58",
-    "type": "scrape"
-  },
-           {
-    "name": "DAZN 3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/330px-DAZN_3.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=73",
-    "type": "scrape"
-  },
-
-    {
-    "name": "Game One",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Game_One_%282024%29.svg/512px-Logo_Game_One_%282024%29.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=10",
-    "type": "scrape"
-  },
-    {
-    "name": "Cartoon Network",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png",
-    "url": "https://directfr.sbs/player/player.php?id=28",
-    "type": "scrape"
-  },
-    {
-    "name": "Boomerang",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png",
-    "url": "https://directfr.sbs/player/player.php?id=94",
-    "type": "scrape"
-  },
-        {
-    "name": "J-One",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/J-One.svg/425px-J-One.svg.png",
-    "url": "https://play.frembed.mom/api/player.php?id=90",
-    "type": "scrape"
-  },
-        {
-    "name": "Tiji",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png?20191021180241",
-    "url": "https://play.frembed.mom/api/player.php?id=91",
-    "type": "scrape"
-  },
-      {
-    "name": "Mangas",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png",
-    "url": "https://play.frembed.mom/api/player.php?id=7",
-    "type": "scrape"
-  },
-
+    
            {
     "name": "REFLET TV (1080p)",
     "logo": "https://i.imgur.com/EauXR22.png",
