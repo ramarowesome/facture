@@ -333,6 +333,12 @@
     "type": "scrape"
   },
               {
+    "name": "RMC Life",
+    "logo": "https://i.postimg.cc/2yS3sCNs/cherie25.png",
+    "url": "",
+    "type": "iptvorg"
+  },
+              {
     "name": "RMC Découverte",
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/330px-RMC_D%C3%A9couverte_logo_2017.svg.png",
     "url": "https://play.frembed.mom/api/player.php?id=26",
