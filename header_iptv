@@ -1,0 +1,25 @@
+{
+  "textAlign": "center",
+  "defaultStyle": {
+    "color": "#FFFFFF",
+    "fontSize": 10.0,
+    "fontFamily": "Poetsen"
+  },
+  "spans": [
+    {
+      "text": "Visitez "
+    },
+    {
+      "text": "Autumn in November",
+      "style": {
+        "color": "#FFC107",
+        "fontSize": 14.0,
+        "fontWeight": "bold",
+        "fontFamily": "Poetsen"
+      }
+    },
+    {
+      "text": " \nsur Facebook"
+    }
+  ]
+}
