@@ -1,25 +1,31 @@
 {
-  "textAlign": "center",
-  "defaultStyle": {
-    "color": "#FFFFFF",
-    "fontSize": 10.0,
-    "fontFamily": "Poetsen"
+  "containerStyle": {
+    "backgroundColor": "#B2673AB7",
+    "borderRadius": 4.0
   },
-  "spans": [
-    {
-      "text": "Visitez "
+  "richText": {
+    "textAlign": "center",
+    "defaultStyle": {
+      "color": "#FFFFFF",
+      "fontSize": 10.0,
+      "fontFamily": "NeverMind-Regular"
     },
-    {
-      "text": "Oap",
-      "style": {
-        "color": "#FFC107",
-        "fontSize": 14.0,
-        "fontWeight": "bold",
-        "fontFamily": "Autumn in November"
+    "spans": [
+      {
+        "text": "Visitez "
+      },
+      {
+        "text": "Oap",
+        "style": {
+          "color": "#FFC107",
+          "fontSize": 14.0,
+          "fontWeight": "bold",
+          "fontFamily": "NeverMind-Extrabold"
+        }
+      },
+      {
+        "text": " \nsur Facebook"
       }
-    },
-    {
-      "text": " \nsur Facebook"
-    }
-  ]
+    ]
+  }
 }
