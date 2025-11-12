@@ -1,0 +1,80 @@
+[
+             
+            {
+    "name": "France 3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/330px-France_3_-_logo_2018.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=49",
+    "type": "page"
+  },
+            {
+    "name": "RMC Story",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/330px-RMC_Story_logo_2018.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=19",
+    "type": "page"
+  },
+              {
+    "name": "RMC Life",
+    "logo": "https://i.postimg.cc/2yS3sCNs/cherie25.png",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8",
+    "type": "direct"
+  },
+              {
+    "name": "RMC Découverte",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/330px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=26",
+    "type": "page"
+  },
+              {
+    "name": "NAT GEO",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/320px-National-Geographic-Logo.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=20",
+    "type": "page"
+  },
+              {
+    "name": "NAT GEO Wild",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/330px-Logo_Nat_Geo_Wild.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=21",
+    "type": "page"
+  },
+              {
+    "name": "Arte HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/330px-Arte-Logo.svg.png",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8",
+    "type": "direct"
+  },
+                {
+    "name": "Toute l´Histoire",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Toute_l%27Histoire_%282013%29.svg/330px-Toute_l%27Histoire_%282013%29.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=101",
+    "type": "page"
+  },
+                  {
+    "name": "Science & Vie",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Science_%26_Vie_TV.svg/330px-Science_%26_Vie_TV.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=121",
+    "type": "page"
+  },
+                {
+    "name": "Discovery Channel",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/330px-Discovery_Channel_-_Logo_2019.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=108",
+    "type": "page"
+  },
+                {
+    "name": "Discovery Science",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png",
+    "url": "https://play.frembed.mom/api/player.php?id=107",
+    "type": "page"
+  },
+              {
+    "name": "Animaux",
+    "logo": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
+    "type": "direct"
+  },
+           {
+    "name": "Into Crime",
+    "logo": "https://static-files.umso.co/lib_CQIHzphjEKuSMtLz/zv50yz0mc58u47lu.png",
+    "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+    "type": "direct"
+  }
+]
