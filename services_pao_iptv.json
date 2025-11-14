@@ -1,142 +1,124 @@
 [
-    {
-      'title': 'Logo Pro',
-      'subtitle': 'Conception de logos',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/logo_pro.jpg'
-    },
-    {
-      'title': 'Logo avec Charte Graphique',
-      'subtitle': 'Rebranding complet',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/charte.jpg'
-    },
-    {
-      'title': 'Croquis',
-      'subtitle': 'Numeriser votre dessin',
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/croquis.jpg'
-    },
-    {
-      'title': 'Étiquette Produit',
-      'subtitle': 'Conception d\'étiquettes ou autocollant',
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/etiquette.jpg'
-    },
-    {
-      'title': 'Visuel Pro',
-      'subtitle': 'Réalisation de visuels',
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/visupro.jpg'
-    },
-    {
-      'title': 'Montage Photo',
-      'subtitle': 'Retouche et montage de photos',
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/visuelpro.jpg'
-    },
-    {
-      'title': 'Montage Vidéo',
-      'subtitle': 'Édition et création de vidéos',
-      'imagePath': 'assets/img/montagevid.jpg',
-      'videoUrl': 'https://raw.githubusercontent.com/ramarowesome/facture/main/jetdencre2.mp4'
-    },
-    {
-      'title': 'Modélisation 3D',
-      'subtitle': 'Création d\'illustrations ou modèles 3D',
-      'videoUrl': 'https://raw.githubusercontent.com/ramarowesome/facture/main/orange3d.mp4',
-      'imagePath': 'assets/img/3d.jpg'
-    },
-    {
-      'title': 'Affichage',
-      'subtitle': 'flyers, dépliants, calendriers, etc',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/affichage.jpg'
-    },
-    {
-      'title': 'Support de Com',
-      'subtitle': 'Catalogues et brochures promotionnels',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/supportCom.jpg'
-    },
-    {
-      'title': 'Vectorisation',
-      'subtitle': 'Redessin d\'images pixelisées',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/vector.jpg'
-    },
-    {
-      'title': 'Carterie',
-      'subtitle': 'Enveloppes, étiquettes, faire-part, etc.',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/carterie.jpg'
-    },
-    {
-      'title': 'Habillage Véhicule',
-      'subtitle': 'Simulation du design',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/habillage.jpg'
-    },
-    {
-      'title': 'Menu Restaurant',
-      'subtitle': 'Conception de menus pour restaurants',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/menu.jpg'
-    },
-    {
-      'title': 'Carte de Visite',
-      'subtitle': 'Création de cartes de visite',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/carte.jpg'
-    },
-    {
-      'title': 'Mise en Page eBook',
-      'subtitle': 'ou conception de couvertures',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/ebook.jpg'
-    },
-    {
-      'title': 'Création Mockup',
-      'subtitle': 'Création de maquettes visuelles',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/mockup.jpg'
-    },
-    {
-      'title': 'Bannière Publicitaire',
-      'subtitle': 'Conception et impréssion',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/baner.jpg'
-    },
-    {
-      'title': 'Façades et comptoirs ',
-      'subtitle': "pour captiver vos clients",
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/boutique.jpg'
-    },
-    {
-      'title': 'Evénement',
-      'subtitle': 'Habillage visuel de vos stands',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/event.jpg'
-    },
-    {
-      'title': 'T-shirt',
-      'subtitle': 'vos idées en visuels uniques',
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/tshiirt.jpg'
-    },
-    {
-      'title': 'Flyer',
-      'subtitle': "de la conception à l'impression",
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/flyer.jpg'
-    },
-    {
-      'title': 'Sign',
-      'subtitle': "tout type d'affichage",
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/sign.jpg'
-    },
-    {
-      'title': 'Retouche',
-      'subtitle': "vieille photo ou amélioration des couleurs",
-
-      'imagePath': 'https://raw.githubusercontent.com/ramarowesome/facture/main/img/retouche.jpg'
-    }
-  ]
+  {
+    "title": "Logo Pro",
+    "subtitle": "Conception de logos",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/logo_pro.jpg"
+  },
+  {
+    "title": "Logo avec Charte Graphique",
+    "subtitle": "Rebranding complet",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/charte.jpg"
+  },
+  {
+    "title": "Croquis",
+    "subtitle": "Numeriser votre dessin",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/croquis.jpg"
+  },
+  {
+    "title": "Étiquette Produit",
+    "subtitle": "Conception d'étiquettes ou autocollant",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/etiquette.jpg"
+  },
+  {
+    "title": "Visuel Pro",
+    "subtitle": "Réalisation de visuels",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/visupro.jpg"
+  },
+  {
+    "title": "Montage Photo",
+    "subtitle": "Retouche et montage de photos",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/visuelpro.jpg"
+  },
+  {
+    "title": "Montage Vidéo",
+    "subtitle": "Édition et création de vidéos",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/montagevid.jpg",
+    "videoUrl": "https://raw.githubusercontent.com/ramarowesome/facture/main/jetdencre2.mp4"
+  },
+  {
+    "title": "Modélisation 3D",
+    "subtitle": "Création d'illustrations ou modèles 3D",
+    "videoUrl": "https://raw.githubusercontent.com/ramarowesome/facture/main/orange3d.mp4",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/3d.jpg"
+  },
+  {
+    "title": "Affichage",
+    "subtitle": "flyers, dépliants, calendriers, etc",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/affichage.jpg"
+  },
+  {
+    "title": "Support de Com",
+    "subtitle": "Catalogues et brochures promotionnels",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/supportCom.jpg"
+  },
+  {
+    "title": "Vectorisation",
+    "subtitle": "Redessin d'images pixelisées",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/vector.jpg"
+  },
+  {
+    "title": "Carterie",
+    "subtitle": "Enveloppes, étiquettes, faire-part, etc.",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/carterie.jpg"
+  },
+  {
+    "title": "Habillage Véhicule",
+    "subtitle": "Simulation du design",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/habillage.jpg"
+  },
+  {
+    "title": "Menu Restaurant",
+    "subtitle": "Conception de menus pour restaurants",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/menu.jpg"
+  },
+  {
+    "title": "Carte de Visite",
+    "subtitle": "Création de cartes de visite",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/carte.jpg"
+  },
+  {
+    "title": "Mise en Page eBook",
+    "subtitle": "ou conception de couvertures",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ebook.jpg"
+  },
+  {
+    "title": "Création Mockup",
+    "subtitle": "Création de maquettes visuelles",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/mockup.jpg"
+  },
+  {
+    "title": "Bannière Publicitaire",
+    "subtitle": "Conception et impréssion",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/baner.jpg"
+  },
+  {
+    "title": "Façades et comptoirs ",
+    "subtitle": "pour captiver vos clients",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/boutique.jpg"
+  },
+  {
+    "title": "Evénement",
+    "subtitle": "Habillage visuel de vos stands",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/event.jpg"
+  },
+  {
+    "title": "T-shirt",
+    "subtitle": "vos idées en visuels uniques",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/tshiirt.jpg"
+  },
+  {
+    "title": "Flyer",
+    "subtitle": "de la conception à l'impression",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/flyer.jpg"
+  },
+  {
+    "title": "Sign",
+    "subtitle": "tout type d'affichage",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/sign.jpg"
+  },
+  {
+    "title": "Retouche",
+    "subtitle": "vieille photo ou amélioration des couleurs",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/retouche.jpg"
+  }
+]
