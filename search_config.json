@@ -1,5 +1,6 @@
 {
   "search_url": "https://www.google.com/search?q=free+iptv+playlist+filetype%3Am3u",
   "banner_image_url": "https://raw.githubusercontent.com/ramarowesome/facture/main/banner_config.jpg",
-  "banner_destination_url": "https://www.facebook.com/pao.madagascar"
+  "banner_destination_url": "https://www.facebook.com/pao.madagascar",
+  "portrait_filler_image_url": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/relax.jpg"
 }
