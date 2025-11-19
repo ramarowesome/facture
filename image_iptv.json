@@ -1,10 +1,51 @@
-{
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads.jpg": "",
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads1.jpg": "",
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads2.jpg": "",
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads3.jpg": "",
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads4.jpg": "",
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads5.jpg": "",
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads6.jpg": "",
-  "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads7.jpg": ""
-}
+[
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads.jpg",
+    "text": "Bienvenue sur notre service !",
+    "btn_url": "",
+    "btn_label": ""
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads1.jpg",
+    "text": "Regardez notre site web",
+    "btn_url": "https://google.com",
+    "btn_label": "Visiter le site"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads2.jpg",
+    "text": "",
+    "btn_url": "",
+    "btn_label": ""
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads3.jpg",
+    "text": "Bienvenue sur notre service !",
+    "btn_url": "",
+    "btn_label": ""
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads4.jpg",
+    "text": "Regardez notre site web",
+    "btn_url": "https://google.com",
+    "btn_label": "Visiter le site"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads5.jpg",
+    "text": "",
+    "btn_url": "",
+    "btn_label": ""
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads6.jpg",
+    "text": "Regardez notre site web",
+    "btn_url": "https://google.com",
+    "btn_label": "Visiter le site"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads7.jpg",
+    "text": "",
+    "btn_url": "",
+    "btn_label": ""
+  }
+]
+
