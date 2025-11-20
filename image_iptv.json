@@ -26,8 +26,8 @@
   {
     "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads4.jpg",
     "text": "Je crée vos affiches et je vous fournis aussi le texte!",
-    "btn_url": "Demander un devis",
-    "btn_label": "mailto:fab22design@gmail.com"
+    "btn_url": "mailto:fab22design@gmail.com",
+    "btn_label": "Demander un devis"
   },
   {
     "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads5.jpg",
