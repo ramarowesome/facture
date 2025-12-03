@@ -44,13 +44,8 @@
     {
     "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads7.jpg",
     "text": "",
-   "btn_label": "En savoir Plus",
-    "btn_url": "info_page",
-    "page_title": "Votre Partenaire graphique",
-    "page_content": "Bienvenue sur Oap, le reflet authentique de mon univers créatif. Je suis Fab Ramaroson, designer graphique, développeur d'applications mobiles et de bureau. Ma passion pour l'innovation digitale m'a conduit à explorer en profondeur les domaines du développement et du community management. Au fil des années, j’ai enrichi mon parcours grâce à diverses expériences formatrices et à des projets innovants, qui ont affiné ma vision créative et technique. Que ce soit en élaborant des visuels percutants, en développant des applications intuitives ou en mettant en place des stratégies de communication dans les réseaux sociaux, chaque projet représente pour moi une aventure unique, mêlant esthétique, fonctionnalité et interaction. Ici, je mets l'ensemble de mes compétences au service de vos ambitions digitales, transformant vos idées en solutions novatrices et impactantes. Si vous recherchez un partenaire capable de conjuguer expertise artistique, innovation technologique et sens du lien communautaire, n’hésitez pas à me contacter. Ensemble, nous écrirons le prochain chapitre de votre succès.",
-    "page_image": "https://raw.githubusercontent.com/ramarowesome/facture/refs/heads/main/img/ads_principale/oap.jpg",
-    "page_btn_url": "https://www.facebook.com/pao.madagascar/",
-    "page_btn_label": "Suivez moi sur fb"
+    "btn_url": "https://www.facebook.com/pao.madagascar/",
+    "btn_label": "Oap"
   }
 ]
 
