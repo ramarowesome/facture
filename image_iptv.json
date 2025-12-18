@@ -1,6 +1,17 @@
 [
-  {
+    {
     "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads.jpg",
+    "text": "Duolingo Max v6.41.4",
+    "btn_label": "En savoir Plus",
+    "btn_url": "",
+    "page_image": "https://raw.githubusercontent.com/ramarowesome/iptv_oap/refs/heads/main/img/img.png",
+    "page_title": "Chaînes TV",
+    "page_content": "Duolingo Max offre aux apprenants tous les avantages de Super (cœurs illimités, aucune publicité et révision personnalisée via le Centre d'entraînement ), ainsi que deux nouvelles fonctionnalités basées sur l'IA. Contactez-nous pour l'obtenir",
+    "page_btn_label": "Envoyer un Message",
+    "page_btn_url": "https://www.facebook.com/pao.madagascar"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads8.jpg",
     "text": "",
     "btn_url": "",
     "btn_label": ""
