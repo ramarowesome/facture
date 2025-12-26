@@ -1,6 +1,12 @@
 [
+      {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads.jpg",
+    "text": "",
+    "btn_url": "tel:+261349303728",
+    "btn_label": "Appelez directement"
+  },
 {
-  "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads.jpg",
+  "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads1.jpg",
   "text": "Duolingo Max",
   "btn_label": "En savoir Plus",
   "btn_url": "info_page", 
@@ -15,12 +21,6 @@
     "text": "",
     "btn_url": "",
     "btn_label": ""
-  },
-  {
-    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads1.jpg",
-    "text": "",
-    "btn_url": "https://play.google.com/store/apps/details?id=com.facture.easynice",
-    "btn_label": "Télécharger"
   },
   {
     "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads2.jpg",
@@ -55,8 +55,14 @@
     {
     "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads7.jpg",
     "text": "",
-    "btn_url": "https://www.facebook.com/pao.madagascar/",
-    "btn_label": "Oap"
+    "btn_url": "tel:+261349303728",
+    "btn_label": "Appelez directement"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/ramarowesome/facture/main/img/ads_principale/ads9.jpg",
+    "text": "",
+    "btn_url": "https://play.google.com/store/apps/details?id=com.facture.easynice",
+    "btn_label": "Télécharger"
   }
 ]
 
