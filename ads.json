@@ -8,10 +8,10 @@
   },
   {
     "adType": "image",
-    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/main/assets/online/3d.jpg",
-    "buttonText": "Visiter notre site",
+    "imagePath": "https://raw.githubusercontent.com/ramarowesome/facture/refs/heads/main/assets/online/offre.jpg",
+    "buttonText": "Contactez-nous",
     "url": "https://www.facebook.com/pao.madagascar",
-    "description": "Promo incroyable avec le code {premiumCode}"
+    "description": "Votre Pub ici"
   },
     {
     "adType": "image",
@@ -29,6 +29,7 @@
   }
 
 ]
+
 
 
 
